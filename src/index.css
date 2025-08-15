@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+.cl-avatarBox{
+    width: 3rem;
+    height: 3rem;
+}
+.arrows{
+    height: 40px;
+    width: 40px;
+    margin: 1px;
+}
+input {
+  background-color: #ffffff;
+  accent-color: red;
+  border: 1px solid #ccc;
+  color: #333;
+}
