@@ -7,7 +7,7 @@ Built a modern, responsive e-commerce web application for electronics shopping w
 
 ## 🌐 Live Demo
 
-🔗 [View Portfolio](https://plugged-gbln81c1s-vansh-tomars-projects-3e0d6c3d.vercel.app/)
+🔗 [View Demo](https://plugged-gbln81c1s-vansh-tomars-projects-3e0d6c3d.vercel.app/)
 
 
 ## 🚀 Features
