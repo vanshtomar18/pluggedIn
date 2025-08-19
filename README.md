@@ -4,6 +4,12 @@
 
 Built a modern, responsive e-commerce web application for electronics shopping with user authentication, cart management, and seamless user experience. Focused on clean UI/UX with responsive design, state management, and modular React components.
 
+
+## 🌐 Live Demo
+
+🔗 [View Portfolio](https://plugged-gbln81c1s-vansh-tomars-projects-3e0d6c3d.vercel.app/)
+
+
 ## 🚀 Features
 
 - **User Authentication**: Secure login/signup with Clerk authentication
@@ -61,7 +67,7 @@ pluggedin/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/pluggedin.git
+   git clone https://github.com/vanshtomar18/pluggedin.git
    cd pluggedin
    ```
 
